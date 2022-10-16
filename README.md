@@ -6,7 +6,7 @@
 
 <h3 align="left">Mentor at:</h3>
 <p align="left">
-<a href="https://maktabkhooneh.org/learn/?q=%D8%B9%D9%84%DB%8C+%D8%A8%DB%8C%DA%AF%D8%AF%D9%84%DB%8C" target="blank"><img align="center" src="https://maktabkhooneh.org/static/images/maktabkhooneh/brandmark_small.png" alt="thealibigdeli" height="50" width="150" /></a>
+<a href="https://maktabkhooneh.org" target="blank"><img align="center" src="https://maktabkhooneh.org/static/images/maktabkhooneh/brandmark_small.png" alt="thealibigdeli" height="50" width="150" /></a>
 </p>
 
 
